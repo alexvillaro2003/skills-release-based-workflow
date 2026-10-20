@@ -106,7 +106,8 @@ section {
   display: block;
 }
 body {
-    background-color: black;
+  /* Black page background for release v1.0 */
+  background-color: black;
 }
 ol,
 ul {
